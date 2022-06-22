@@ -7,5 +7,6 @@ Used Html and Css for front end page.
 Used Hibernate for mapping an object-oriented domain model to a relational database.
 Implemented Spring Boot to create micro services.
 Used Servlets to extend our application that is hosted by web servers.
-# Environment and technologies:
+# Technologies:
 Angular 10, Hibernate, Spring Boot, Servlets
+# 
